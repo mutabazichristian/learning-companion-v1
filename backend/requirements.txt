@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+langchain-groq
+langchain
+langchain-community
+pypdf
+chromadb
+mysql-connector-python
+python-dotenv
+sqlalchemy

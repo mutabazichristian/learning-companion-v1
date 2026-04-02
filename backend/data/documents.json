@@ -1,0 +1,473 @@
+{
+  "05388cfa": {
+    "doc_id": "05388cfa",
+    "filename": "systematic_review.pdf",
+    "title": "systematic_review.pdf",
+    "owner": "teach",
+    "created_at": "2026-04-01T08:54:50.402378Z",
+    "total_pages": 33,
+    "concepts": {
+      "1": [
+        "Artificial Intelligence in Education",
+        "Systematic Review of Literature Reviews",
+        "Future Research Agenda"
+      ],
+      "2": [
+        "AIED can advance learning practices and support teachers",
+        "AIED design can be challenging due to various learner and teacher characteristics",
+        "AIED outcomes can be unfair and unreliable if not properly considered"
+      ],
+      "3": [
+        "Designing effective Artificial Intelligence in Education (AIED) systems",
+        "Conducting systematic reviews of AIED literature",
+        "Understanding the state of AIED development and its applications"
+      ],
+      "4": [
+        "Theoretical Framework",
+        "Technology-Enhanced Learning Model",
+        "Interconnected Dimensions of Learning Environment"
+      ],
+      "5": [
+        "Systematic Review Process",
+        "Data Coding Scheme",
+        "Inclusion and Exclusion Criteria"
+      ],
+      "6": [
+        "AIED literature review trends",
+        "Geographic distribution of AIED research",
+        "Coding scheme for literature review analysis"
+      ],
+      "7": [
+        "AI's potential to enhance educational practices",
+        "AI's role in supporting students with special needs",
+        "Advancements in AI technology driving increased research in AI-based education"
+      ],
+      "8": [
+        "AI adoption in education",
+        "Impact on educational equity and access",
+        "Advancements in AI technologies for personalized learning"
+      ],
+      "9": [
+        "Teacher shortages and AI's role in education",
+        "Integrating AI within a pedagogical framework",
+        "Ensuring AI advancements align with educational values and ethics"
+      ],
+      "10": [
+        "Collaborative International Approach to AI in Education",
+        "Regional Variations in AI Readiness and Priorities",
+        "Equitable and Effective Integration of AI in Education"
+      ],
+      "11": [
+        "Enhanced Administrative Efficiency through AI",
+        "Interdisciplinary Approaches to AIED Development",
+        "Personalized Learning with Sophisticated Systems"
+      ],
+      "12": [
+        "AI-enhanced learning systems in higher education",
+        "Effectiveness of AI-based teaching methods",
+        "Integration of AI in K-12 education"
+      ],
+      "13": [
+        "Understanding AI's application in diverse educational contexts",
+        "Distribution of AIED studies across disciplinary categories",
+        "Investigating AI's impact on education and user perceptions"
+      ],
+      "14": [
+        "AI as assistive technology in medical education",
+        "AI implementation in arts and humanities",
+        "AI applications in language education"
+      ],
+      "15": [
+        "Systematic reviews dominate AIED research",
+        "Meta-analyses provide quantitative insights into AI in education",
+        "Rigorous methods are used to evaluate AI effectiveness in education"
+      ],
+      "16": [
+        "Student Activities and AI Support",
+        "Social Emotional Learning and Collaborative Learning",
+        "Teaching and Learning Assessment"
+      ],
+      "17": [
+        "AIED techniques and technologies vary across sectors and use cases",
+        "Machine learning is the most widely used AI technique in education",
+        "Deep learning is also a significant focus in educational AI studies"
+      ],
+      "18": [
+        "The need to examine the role of technology in teaching and learning",
+        "The integration and impact of chatbots in educational settings",
+        "The opportunities and challenges of using chatbots to promote interpersonal communication and learning"
+      ],
+      "19": [
+        "AIED advantages",
+        "Personalized learning",
+        "Adaptive systems and learning analytics"
+      ],
+      "20": [
+        "Improving Cognitive Engagement",
+        "Enhancing Interactions Among Stakeholders",
+        "Increasing Critical Thinking and Creativity"
+      ],
+      "21": [
+        "Personalization of learning using AI",
+        "Algorithmic bias in AI systems",
+        "Ethical issues and policy development for AI in education"
+      ],
+      "22": [
+        "The importance of AI literacy for students",
+        "The rapid advancement and integration of AI in various domains",
+        "The need for research and discussion on AI in teaching and learning"
+      ],
+      "23": [
+        "AI in education",
+        "Adaptive and personalized learning",
+        "Effectiveness of AIED on learning outcomes"
+      ],
+      "24": [
+        "AI systems are at risk of bias",
+        "Current AI training data reflects Western cultural norms",
+        "Diverse training data is difficult to obtain"
+      ],
+      "25": [
+        "AI must meet student needs and promote personalized learning",
+        "AI can hinder academic and cognitive development if relied on too heavily",
+        "AI should prioritize meaningful educational outcomes over efficiency"
+      ],
+      "26": [
+        "AI-generated content can facilitate academic dishonesty",
+        "Current plagiarism detection methods are unreliable",
+        "AI challenges educators in assessing true student performance"
+      ],
+      "27": [
+        "AI's transformative impact on learning design and education technologies",
+        "The potential for AI to make existing tools obsolete or drastically change them",
+        "The need for consideration of AI's environmental impact, including its energy footprint"
+      ],
+      "28": [
+        "Artificial Intelligence in Education",
+        "Intelligent Tutoring Systems and Machine Learning",
+        "Extended Reality Technologies in Educational Settings"
+      ],
+      "29": [
+        "Artificial Intelligence in Education",
+        "Continuous Improvement in AI Design",
+        "Ethics and Collaboration in AI Implementation"
+      ],
+      "30": [
+        "Adaptive Learning Systems",
+        "Technology-Based Learning",
+        "Artificial Intelligence in Education"
+      ],
+      "31": [
+        "Intelligent Tutoring Systems",
+        "Personalized Education with AI",
+        "Impact of AI on Learning Outcomes"
+      ],
+      "32": [
+        "AI technologies for social emotional learning",
+        "Systematic review methodology for educational research",
+        "Intelligent tutoring systems and their validation methods"
+      ],
+      "33": [
+        "Artificial Intelligence in Learning Environments",
+        "Large Language Models",
+        "Assessment Literacy in Education"
+      ]
+    }
+  },
+  "6aa4ba39": {
+    "doc_id": "6aa4ba39",
+    "filename": "Examining AI Use in Educational Contexts: A Scoping Meta-Review and Bibliometric Analysis.pdf",
+    "title": "Examining AI Use in Educational Contexts: A Scoping Meta-Review and Bibliometric Analysis.pdf",
+    "owner": "teach",
+    "created_at": "2026-04-01T09:44:19.282107Z",
+    "total_pages": 57,
+    "concepts": {
+      "1": [
+        "Artificial Intelligence in Education",
+        "Systematic Reviews and Meta-Analysis",
+        "Educational Contexts and AI Integration"
+      ],
+      "2": [
+        "Artificial Intelligence in Education",
+        "Exponential Growth of AI Integration",
+        "Systematic Reviews of AI's Effects on Education"
+      ],
+      "3": [
+        "Machine learning and deep learning are widely used AI methods",
+        "Meta-analysis is a rarely used method in AI research",
+        "Adaptive systems and personalization are prominent AI applications in higher education"
+      ],
+      "4": [
+        "Screening Process and Criteria",
+        "Search Rounds and Database Inclusion",
+        "Application of PRISMA Guidelines"
+      ],
+      "5": [
+        "Systematic Review Process",
+        "Article Collection and Filtering",
+        "Final Study Retention"
+      ],
+      "6": [
+        "Systematic Reviews",
+        "Thematic Analysis",
+        "PRISMA Statement"
+      ],
+      "7": [
+        "Quality Assessment of Reviews",
+        "Bibliometric Analysis and Text-Mining Approaches",
+        "Research Criteria and Methodology Evaluation"
+      ],
+      "8": [
+        "Systematic Review Analysis",
+        "Inductive Coding Methodology",
+        "Inter-Rater Agreement"
+      ],
+      "9": [
+        "Collaboration clusters among researchers",
+        "Geographic distribution of authorship",
+        "Regional research output dominance by Asia and Europe"
+      ],
+      "10": [
+        "Cluster Analysis in Education",
+        "Artificial Intelligence Applications",
+        "Learning Analytics and Keywords"
+      ],
+      "11": [
+        "Co-authorship Network",
+        "Geographic Distribution of Authorship",
+        "Visualization Tools in Research"
+      ],
+      "12": [
+        "Distribution of review sizes",
+        "Classification of reviews by size range",
+        "Publication time period of reviews"
+      ],
+      "13": [
+        "Text-mining approach",
+        "Bibliometric analysis",
+        "Qualitative analysis"
+      ],
+      "14": [
+        "Learning Environments",
+        "Learning Modalities",
+        "Types of Learning Settings"
+      ],
+      "15": [
+        "Limited research has reviewed the negative impact of AI in education",
+        "AI can have varying effects on students, including decreased confidence",
+        "Existing reviews on AI in education have primarily focused on its positive aspects"
+      ],
+      "16": [
+        "AI's potential to impact student learning",
+        "Risks of underperforming AI models in education",
+        "Effects of AI on domains of learning"
+      ],
+      "17": [
+        "Metacognition and its role in learning",
+        "AI support for metacognitive skills",
+        "Adaptive and personalized learning powered by AI"
+      ],
+      "18": [
+        "AI in Education Increases Assessment Accuracy",
+        "Automatic Assessment is a Primary Function of AI in Online Education",
+        "AI Enhances Student Self-Awareness and Feedback"
+      ],
+      "19": [
+        "AI enables customization of content and learning paths",
+        "Teachers become curators of educational content",
+        "Teachers evolve into data-driven instructors"
+      ],
+      "20": [
+        "Teachers need to develop AI literacy to understand its applications and impact",
+        "Professional development for teachers is a continuous and adaptive process",
+        "AI integration in education requires ongoing learning experiences for teachers"
+      ],
+      "21": [
+        "Administrative Efficiency",
+        "AI in Education",
+        "Enhancing Student Achievements"
+      ],
+      "22": [
+        "AI applications in education",
+        "Machine learning in educational contexts",
+        "Impact of AI on learning and teaching"
+      ],
+      "23": [
+        "Insufficient information in systematic reviews",
+        "Importance of educational context",
+        "Disparities in research focus between higher education and PreK-12 education"
+      ],
+      "24": [
+        "Adaptive and personalized learning in higher education",
+        "Impact of AI on teaching and instructional pedagogies",
+        "Comparison of AI applications in PreK-12 and higher education"
+      ],
+      "25": [
+        "AI literacy curriculum development",
+        "Importance of educational theoretical frameworks",
+        "AI's impact on education administration"
+      ],
+      "26": [
+        "Developing functional AI definitions for individual subject areas",
+        "Distinguishing between education for AI and AI for education",
+        "Contextualizing AI's effects on different facets of education"
+      ],
+      "27": [
+        "Reliability of coding in research studies",
+        "Limitations of traditional systematic review methodology",
+        "Need for consolidated review methodology for text-mining and bibliometric approaches"
+      ],
+      "28": [
+        "AI Applications in Education",
+        "Data Mining and Machine Learning Algorithms",
+        "Global Research in Educational Technology"
+      ],
+      "29": [
+        "AI Applications in Education",
+        "Machine Learning and Data Mining",
+        "International Research on AI in Educational Settings"
+      ],
+      "30": [
+        "AI Applications in Education",
+        "Machine Learning in Educational Settings",
+        "Review of Artificial Intelligence in Education Research"
+      ],
+      "31": [
+        "AI Applications in Education",
+        "Machine Learning and Deep Learning in Educational Settings",
+        "Intelligent Tutoring Systems and Educational Recommender Systems"
+      ],
+      "32": [
+        "AI Applications in Education",
+        "Learning Environments and Modalities",
+        "Educational Level and Subject Area"
+      ],
+      "33": [
+        "AI Applications in Education",
+        "Machine Learning and Deep Learning in Educational Settings",
+        "Natural Language Processing for Educational Assessments"
+      ],
+      "34": [
+        "AI Applications in Education",
+        "Machine Learning and Adaptive Systems",
+        "Intelligent Tutoring Systems and Chatbots"
+      ],
+      "35": [
+        "AI Applications in Education",
+        "Machine Learning and Conversational AI",
+        "Personalized Learning Environments"
+      ],
+      "36": [
+        "AI Applications in Education",
+        "Machine Learning and Chatbots in Educational Settings",
+        "Technology-Enhanced Language Learning"
+      ],
+      "37": [
+        "AI Applications in Education",
+        "Machine Learning and Intelligent Systems",
+        "Educational Technology and Learning Environments"
+      ],
+      "38": [
+        "AI Applications in Education",
+        "Machine Learning and Adaptive Learning",
+        "AI-based Platforms for Various Subjects"
+      ],
+      "39": [
+        "AI Applications in Education",
+        "Learning Analytics and Data Mining",
+        "Online Learning Environments and Modalities"
+      ],
+      "40": [
+        "AI Applications in Education",
+        "Machine Learning and Learning Analytics",
+        "Emerging Technologies in Educational Settings"
+      ],
+      "41": [
+        "AI Applications in Education",
+        "Machine Learning Algorithms in Educational Settings",
+        "International Research on Artificial Intelligence in Education"
+      ],
+      "42": [
+        "AI Applications in Education",
+        "Learning Environments and Modalities",
+        "International Research on AI in Education"
+      ],
+      "43": [
+        "AI Applications in Education",
+        "Machine Learning and Intelligent Tutoring Systems",
+        "STEM Education with AI-based Learning Environments"
+      ],
+      "44": [
+        "Machine Learning and Intelligent Tutoring Systems in Education",
+        "Applications of AI in Various Subjects and Educational Levels",
+        "Multiple Learning Environments and Modalities for Effective Education"
+      ],
+      "45": [
+        "AI Applications in Education",
+        "Educational Technology and Learning Environments",
+        "Artificial Intelligence in Various Subjects and Levels of Education"
+      ],
+      "46": [
+        "Impact on student learning",
+        "Effects of AI on cognitive and affective outcomes",
+        "Improvement in academic success and motivation through AI-powered education"
+      ],
+      "47": [
+        "Impact of AI on teaching methods",
+        "Shift from teacher-centered to learner-centered models",
+        "Use of AI in personalized and active learning approaches"
+      ],
+      "48": [
+        "Teacher professional development",
+        "Impact on administration",
+        "Student performance analysis and support"
+      ],
+      "49": [
+        "Author Contributions",
+        "Funding and Data Availability",
+        "Declarations and Licensing"
+      ],
+      "50": [
+        "Applications of Data Science in Education",
+        "Game Learning Analytics",
+        "Artificial Intelligence in Educational Settings"
+      ],
+      "51": [
+        "Artificial Intelligence in Education",
+        "Learning Analytics",
+        "Multimodal Learning"
+      ],
+      "52": [
+        "Sentiment Analysis in Education",
+        "Artificial Intelligence Innovation in Education",
+        "Teachable Agent-Based Learning"
+      ],
+      "53": [
+        "Neural Machine Translation",
+        "Emerging Technologies in Language Teaching",
+        "Effectiveness of Machine Translation in Foreign Language Learning"
+      ],
+      "54": [
+        "Intelligent Tutoring Systems",
+        "AI Literacy",
+        "Applications of Artificial Intelligence in Education"
+      ],
+      "55": [
+        "Intelligent Tutoring Systems",
+        "Predictive Analytics in Learning",
+        "Artificial Intelligence in Education"
+      ],
+      "56": [
+        "Artificial Intelligence in Education",
+        "Smart Learning Environments",
+        "Systematic Literature Reviews on AI Techniques"
+      ],
+      "57": [
+        "Artificial Intelligence in Education",
+        "Systematic Reviews of AI Applications",
+        "AI-Enhanced Language Learning"
+      ]
+    },
+    "url": "/uploads/6aa4ba39.pdf"
+  }
+}

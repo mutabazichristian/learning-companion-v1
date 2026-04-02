@@ -1,0 +1,20 @@
+{
+  "6aa4ba39": {
+    "Artificial Intelligence in Education": {
+      "mastered_count": 0,
+      "partial_count": 1,
+      "struggling_count": 0,
+      "total_attempts": 1,
+      "avg_difficulty": 1.0,
+      "last_updated": "2026-04-01T10:18:46.137820Z"
+    },
+    "Article Collection and Filtering": {
+      "mastered_count": 0,
+      "partial_count": 1,
+      "struggling_count": 1,
+      "total_attempts": 2,
+      "avg_difficulty": 1.0,
+      "last_updated": "2026-04-01T10:43:59.539356Z"
+    }
+  }
+}
