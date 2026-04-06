@@ -14,6 +14,28 @@ The repository is divided into two main components:
 - Python 3.9+
 - Node.js 16+ and npm
 - A Groq API key
+- MySQL Server installed and running
+
+## Database Setup
+
+1. Log in to your MySQL terminal:
+   ```bash
+   mysql -u root -p
+   ```
+
+2. Create the database:
+   ```sql
+   CREATE DATABASE learning_companion;
+   ```
+
+3. Create a `.env` file in the `backend/` directory with your credentials:
+   ```env
+   GROQ_API_KEY="your_api_key_here"
+   MYSQL_USER="your_username"
+   MYSQL_PASSWORD="your_password"
+   MYSQL_HOST="localhost"
+   MYSQL_DB="learning_companion"
+   ```
 
 ## Backend Setup
 
@@ -37,6 +59,8 @@ The repository is divided into two main components:
    ```bash
    export GROQ_API_KEY="your_api_key_here"
    ```
+
+
 
 5. Start the server:
    ```bash
@@ -70,12 +94,11 @@ The application will be accessible at `http://localhost:3000`.
 1. Open the application in your browser.
 2. Navigate to the Documents section via the navigation bar.
 3. Upload a PDF file.
-4. As you navigate through the pages, the AI assistant will process the text, provide commentary, and ask a comprehension question.
-5. Ensure your system audio is enabled for the voice output functionality.
+4. As you navigate through the pages, the AI assistant will process the text 
 
 ## Technical Notes
 
 - **PDF Processing**: The backend uses `PyPDFLoader` for extraction. Files are processed in-memory and are not persisted to storage.
 - **LLM**: Commentary is generated using Groq-backed models via LangChain and streamed to the frontend for real-time interaction.
-- **Speech**: Audio synthesis is handled client-side using the browser's Web Speech API.
+
 - **CORS**: The backend is configured to allow requests from `http://localhost:3000`.

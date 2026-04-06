@@ -161,7 +161,7 @@ const DocumentsPage: React.FC = () => {
     setPdfName(doc.title);
     setCurrentPage(1);
     setSelectedConcept(null);
-    setPdfFile(`http://localhost:8001/uploads/${doc.doc_id}.pdf` as any);
+    setPdfFile(`http://localhost:8000/uploads/${doc.doc_id}.pdf` as any);
   };
 
   return (
