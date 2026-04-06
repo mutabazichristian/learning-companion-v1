@@ -1,10 +1,10 @@
 from pathlib import Path
 
-from database import init_db
+from app.database import init_db
+from app.routers import auth, documents, interactions, reading, sessions
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
-from routers import auth, documents, interactions, reading, sessions
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 UPLOADS_DIR = BASE_DIR / "data" / "uploads"

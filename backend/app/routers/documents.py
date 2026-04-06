@@ -2,10 +2,15 @@ import os
 import uuid
 from typing import Optional
 
-from database import get_db
+from app.database import get_db
+from app.services import (
+    analytics_service,
+    auth_service,
+    chroma_service,
+    document_service,
+)
 from fastapi import APIRouter, Depends, File, Header, HTTPException, UploadFile
 from pydantic import BaseModel
-from services import analytics_service, auth_service, chroma_service, document_service
 from sqlalchemy.orm import Session
 
 router = APIRouter(prefix="/documents", tags=["documents"])

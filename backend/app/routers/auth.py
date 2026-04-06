@@ -1,14 +1,14 @@
 from typing import Optional
 
-from database import get_db
-from fastapi import APIRouter, Depends, Header, HTTPException
-from pydantic import BaseModel
-from services.auth_service import (
+from app.database import get_db
+from app.services.auth_service import (
     authenticate_user,
     create_session,
     get_user_by_token,
     register_user,
 )
+from fastapi import APIRouter, Depends, Header, HTTPException
+from pydantic import BaseModel
 from sqlalchemy.orm import Session
 
 

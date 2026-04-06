@@ -1,6 +1,6 @@
 from typing import Any, Dict, List
 
-from database import Analytics
+from app.database import Analytics
 from sqlalchemy import func
 from sqlalchemy.orm import Session
 

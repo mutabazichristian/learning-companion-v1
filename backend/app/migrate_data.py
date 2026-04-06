@@ -2,7 +2,7 @@ import json
 import os
 from pathlib import Path
 
-from database import Analytics, Document, Session, SessionLocal, User, init_db
+from app.database import Analytics, Document, Session, SessionLocal, User, init_db
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"

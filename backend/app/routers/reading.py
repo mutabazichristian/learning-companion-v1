@@ -2,22 +2,22 @@ import os
 import uuid
 from typing import List, Optional
 
-from database import StudentProgress, get_db
-from fastapi import APIRouter, Depends, File, Header, HTTPException, UploadFile
-from pydantic import BaseModel
-from schemas.reading import (
+from app.database import StudentProgress, get_db
+from app.schemas.reading import (
     AskQuestionRequest,
     AskQuestionResponse,
     SourceChunk,
     UploadPDFResponse,
 )
-from services import (
+from app.services import (
     analytics_service,
     auth_service,
     chroma_service,
     document_service,
     question_service,
 )
+from fastapi import APIRouter, Depends, File, Header, HTTPException, UploadFile
+from pydantic import BaseModel
 from sqlalchemy.orm import Session
 
 

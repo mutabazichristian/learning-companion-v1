@@ -2,8 +2,8 @@ import hashlib
 import uuid
 from typing import Dict, Optional
 
-from database import Session as UserSession
-from database import User
+from app.database import Session as UserSession
+from app.database import User
 from sqlalchemy.orm import Session
 
 
